@@ -1,0 +1,22 @@
+\begin{thebibliography}{1}
+
+\bibitem{desjardins2011playing}
+M.~desJardins, A.~Ciavolino, R.~Deloatch, E.~Feasley, et~al.
+\newblock Playing to program: Towards an intelligent programming tutor for
+  rur-ple.
+\newblock In {\em Second AAAI Symposium on Educational Advances in Artificial
+  Intelligence}, 2011.
+
+\bibitem{miikkulainen2012multiagent}
+R.~Miikkulainen, E.~Feasley, L.~Johnson, I.~Karpov, P.~Rajagopalan, A.~Rawal,
+  and W.~Tansey.
+\newblock Multiagent learning through neuroevolution.
+\newblock {\em Advances in Computational Intelligence}, pages 24--46, 2012.
+
+\bibitem{tansey2012accelerating}
+W.~Tansey, E.~Feasley, and R.~Miikkulainen.
+\newblock Accelerating evolution via egalitarian social learning.
+\newblock In {\em Proceedings of the fourteenth international conference on
+  Genetic and evolutionary computation conference}, pages 919--926. ACM, 2012.
+
+\end{thebibliography}
